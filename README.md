@@ -10,3 +10,5 @@ All programs I have done using assembly
 4. Triangle , program to print a right angled trinagle. 
 
 5. Fibinocci series till first 100 numbers. 
+
+6. Finding the power of a number
