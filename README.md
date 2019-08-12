@@ -12,3 +12,5 @@ All programs I have done using assembly
 5. Fibinocci series till first 100 numbers. 
 
 6. Finding the power of a number
+
+7. 0 - 100 all even numbers
