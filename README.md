@@ -14,3 +14,4 @@ All programs I have done using assembly
 6. Finding the power of a number
 
 7. 0 - 100 all even numbers
+
