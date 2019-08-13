@@ -15,3 +15,4 @@ All programs I have done using assembly
 
 7. 0 - 100 all even numbers
 
+8. Compare two numbers and print the largest.
